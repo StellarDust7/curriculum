@@ -1,0 +1,193 @@
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+   height: 1300px;
+    background-color: #706E6B;
+}
+
+.cabeza{
+margin-top: 10px;
+background-color:#F4F1EC;
+width: 600px;
+height: 1275px;
+
+display: inline-block;
+}
+
+ .row{
+    
+    height: 1275px;
+    width: 400px;
+    background-color: #494F5E;
+    margin-top: 10px;
+    float:left;
+    margin-left: 25%;
+    
+ }
+ .image-profile{
+    width: 180px;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-left: 90px;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    color: #F2D2B6;
+    margin-left: 50px;
+}
+.lic{
+    font-family:'Oswald' , sans-serif;
+    padding-left: 80px;
+    font-weight: 300;
+    color:#F2E4D8 ;
+}
+hr {
+    width: 70%;
+    height: 4px;
+    background-color:#F2D2B6 ;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    border-radius: 25%;
+    }
+.titulo{
+margin-top: 45px;
+margin-left: 50px;
+font-family: 'Arsenal', sans-serif;
+font-weight: 900;
+font-size: 18px;
+color:bisque;
+
+}
+.row ul{
+    margin-left: 55px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    list-style: none;
+    color: #F4F1EC;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 13px;
+    
+}
+.skills{
+    margin-left: 55px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    list-style: none;
+    color: #F4F1EC;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 13px;
+}
+.con{
+ width: 55px;
+ height: 55px;
+ display: block;
+ background-color: #F2D2B6; 
+ margin-left: 150px; 
+ margin-top: 30px; 
+ border-radius: 50%;
+}
+.con img{
+ 
+    width: 45px;
+    position:relative;
+    padding-left: 15px;
+    padding-top: 12px;
+    border: none;
+    margin: 0px;
+}
+.texto{
+    margin-left: 5px;
+    display: inline-block;
+
+}
+.textos{
+    color: aliceblue;
+    font-size: 17px;
+    font-family: Nanum Gothic, sans-serif;
+    margin-left: 120px;
+    margin-top: 10px;
+    padding-top: 0px;
+}
+.con2 img{
+    
+    width: 45px;
+    position:relative;
+    padding-left: 15px;
+    padding-top: 12px;
+    border: none;
+    margin: 0px;
+}
+.texto2{
+    margin-left: 0px;
+    display: inline-block;
+}
+.textos2{
+    color: aliceblue;
+    font-size: 17px;
+    font-family: Nanum Gothic, sans-serif;
+    margin-left: 70px;
+    margin-top: 10px;
+    padding-top: 0px;
+}
+.textos3{
+    color: aliceblue;
+    font-size: 17px;
+    font-family: Nanum Gothic, sans-serif; 
+    margin-top: 10px;
+    padding-top: 0px;
+    margin-left: 60px;
+}
+.row-2{
+    display: inline-block;
+    height: 13px;
+    width: 400px;
+    background-color: #494F5E;
+    margin-top: 0px;
+    padding-top: 0px;
+ }
+
+
+.cuadro{
+    font-family:Nanum Gothic, sans-serif;
+    font-weight: 900;
+    font-size: 17px;
+    color: #494F5E;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.cabeza ul{
+    list-style: none;
+    margin-left: 55px;
+    margin-top: 30px;
+    padding: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 14px;
+    color: #494F5E;
+}
+.idioma{
+    margin-left: 55px;
+    margin-top: 30px;
+    color: #494F5E;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 14px;
+}
+.imagenes{
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    
+}
+
+
+
